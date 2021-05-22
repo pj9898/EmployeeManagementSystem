@@ -1,0 +1,125 @@
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.exe
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.deps.json
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.json
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.pdb
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.xml
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CopyComplete
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prabhat.jha\Desktop\InputFolder\React-.Net_Crud\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csprojAssemblyReference.cache
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.exe
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.deps.json
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.json
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.dev.json
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.pdb
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CopyComplete
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.xml
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
+D:\.net Dll\React-.NET\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
